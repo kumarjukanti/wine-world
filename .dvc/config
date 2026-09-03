@@ -1,4 +1,5 @@
 [core]
     remote = wineremote
-['remote "wineremote"']
+
+[remote "wineremote"]
     url = s3://mlops-wine-dvc-ravisept3
